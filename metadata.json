@@ -1,0 +1,6 @@
+{
+  "name": "Registro de Drivers",
+  "description": "Módulo de registro móvil y web para drivers de motocicletas.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
